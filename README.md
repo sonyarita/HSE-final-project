@@ -20,6 +20,7 @@ Python, pandas, nltk, scikit-learn, matplotlib, requests, BeautifulSoup
 
 
 **Как запустить:**
+
 Установить зависимости
 
 Открыть файл final project.ipynb
